@@ -1,0 +1,18 @@
+body {
+	background-color: #d8ceaf;
+	font-family: 'Arial', sans-serif;
+	text-align: center;
+}
+
+h1 {
+	color: #8B4513;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+p {
+	color: black;
+}
+
